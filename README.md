@@ -1,7 +1,7 @@
 # R2D2 Modular control unit (MCU)
 
-> [!CAUTION] WIP
-> - My MKIII R2D2 is still work-in-progress therefore i some changes in the design are possible
+> [!CAUTION]
+> - My MKIII R2D2 is still **work-in-progress** therefore i some changes in the design are possible!
 
 # General
 
@@ -22,3 +22,6 @@
 - Dome Motor Mount by [Gonz Pousada J Luis](https://www.facebook.com/groups/MrBaddeley/posts/3683034678691760/).
 - Both Luis and Jason have other fantastic mods, and you should also check out [Jason's YouTube Channel](https://www.youtube.com/@jasonsR2D2).
 - A special thanks to [@Benedikt Riess|Ben], who provided me with the [electronic components](https://www.printed-droid.com/), and to [@Norbert A. Richartz], who is developing the AstroCan System and [BetterDuinoFirmwareV4](https://github.com/RealNobser/BetterDuinoFirmwareV4). He answered nearly all my questions and integrated some cool features.
+
+## Images
+[![plot](./images/Built-in_folded-out.JPEG)]([./images/Built-in_folded-out.JPEG](https://github.com/Buddinski88/r2d2-modular-control-unit/blob/main/images/Built-in_folded-out.JPEG))
