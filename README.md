@@ -24,4 +24,4 @@
 - A special thanks to [@Benedikt Riess|Ben] ADD PROFILE, who provided me with the [electronic components](https://www.printed-droid.com/), and to [@Norbert A. Richartz] ADD PROFILE, who is developing the AstroCan System and [BetterDuinoFirmwareV4](https://github.com/RealNobser/BetterDuinoFirmwareV4). He answered nearly all my questions and integrated some cool features.
 
 ## Images
-[![plot](./images/Built-in_folded-out.JPEG)]([./images/Built-in_folded-out.JPEG](https://github.com/Buddinski88/r2d2-modular-control-unit/blob/main/images/Built-in_folded-out.JPEG))
+<img src="images/Built-in_outside.JPEG" width="30%"></img> <img src="images/Built-in_folded-out.JPEG" width="30%"></img> <img src="images/Built-in_inside.JPEG" width="30%"></img> <img src="images/Detached-inside.JPEG" width="30%"></img> <img src="images/Detached-outside.JPEG" width="30%"></img>
