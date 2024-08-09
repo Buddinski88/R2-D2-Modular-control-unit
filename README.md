@@ -1,6 +1,6 @@
 # R2D2 Modular control unit (MCU)
 
-> [!info] WIP
+> [!CAUTION] WIP
 > - My MKIII R2D2 is still work-in-progress therefore i some changes in the design are possible
 
 # General
