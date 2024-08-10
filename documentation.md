@@ -26,7 +26,18 @@
 
 #### Frame
 
-<img src="images/documentation/Frame-assembled-without-panels.png" width="30%"></img>
+<img src="images/documentation/Frame-body-adapters.png" width="25%"></img>
+<img src="images/documentation/Frame-assembled-without-panels.png" width="25%"></img>
+
+<img src="images/documentation/Body-Adapter-Left-Bottom.png" width="25%"></img>
+<img src="images/documentation/Body-Adapter-Right-Bottom.png" width="25%"></img>
+<img src="images/documentation/Frame-Connector-Left-PIN.png"  width="25%"></img>
+ <img src="images/documentation/Frame-Connector-Left.png" width="25%"></img>
+<img src="images/documentation/Frame-Connector-Right.png" width="25%"></img>
+<img src="images/documentation/Frame-Connector-Right-PIN.png" width="25%"></img>
+<img src="images/documentation/Frame-Connector-Top.png" width="25%"></img>
+<img src="images/documentation/Body-Adapter-Left-Top_and_Body-Adapter-Top-Knob.png" width="25%"></img>
+
 
 #### Panels
 
