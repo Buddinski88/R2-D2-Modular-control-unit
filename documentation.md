@@ -34,34 +34,39 @@ TBA!
 
 ### Parts list
 
-| Part                         | Quantity | Used for                                                                                                     |
-| ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------ |
-| M2x10 mm Cylinder head screw | 4        | Attaching amplifier to printed panel                                                                         |
-| M3x6 mm Cylinder head screw  | 4        | Attaching the Arduino Mega2560 + AstroCan Shield to printed panel                                            |
-| M3x6 mm Pan head screw       | 80       | Connecting the front and back frame to the standoffs                                                         |
-| M3x10 Countersunk screw      | 12       | Attaching the XT60 & XT90 to the adapters                                                                    |
-| M4x18 Countersunk screw      | 4        | Connecting the ``Body-Adapter-Left-Bottom.stl`` and ``Body-Adapter-Right-Bottom.stl`` to the body            |
-| M4x40 Countersunk screw      | 1        | ``Body-Adapter-Top-Knob.stl`` to secure the MCU in the body                                                  |
-| M4 Square nut                | 1        | ``Body-Adapter-Top-Knob.stl`` to secure the MCU in the body                                                  |
-| M3 Locknut                   | 12       | Attaching the XT60 & XT90 to the adapters                                                                    |
-| M3x5.7 mm Threaded inserts   | 160      | To fill all available recordings on the frame (depending on the panel used, additional ones may be required) |
-| M4x4x6 mm Threaded inserts   | 4        | Connecting the ``Body-Adapter-Left-Bottom.stl`` and ``Body-Adapter-Right-Bottom.stl`` to the body            |
-| M3 Standoffs                 | 40       | Connecting the front and back frame                                                                          |
-| 15x10x4 mm Bearing           | 4        | Two each for the ``Body-Adapter-Left-Bottom.stl`` and ``Body-Adapter-Right-Bottom.stl``                      |
-| Power rails                  | 4        | Not used, but there are STLs if needed                                                                       |
-| Step-down LCD                | 2        | Power supply for 5V                                                                                          |
-| 12V 20A Buck converter       | 1        | Power supply for 12V                                                                                         |
-| XT60                         |          |                                                                                                              |
-| XT90                         |          | Main power connection of the batteries                                                                       |
-| MPX-like connector           |          | To have a power connection with 6 data lines to the body                                                     |
-| Powerrails                   | 4        |                                                                                                              |
-| Stepdowns LCD                |          |                                                                                                              |
-| Buckconverter                |          |                                                                                                              |
+| Part                              | Quantity | Used for                                                                                               | Link |
+| --------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | ---- |
+| **M2x10 mm Cylinder Head Screws** | **8**    | Attaching amplifier and MPX-like connector to printed panels                                           |      |
+| **M3x6 mm Pan Head Screws**       | **104**  | 80 for connecting the front and back frame to the standoffs                                            |      |
+|                                   |          | 4 for attaching Arduino Mega2560 + AstroCan Shield                                                     |      |
+|                                   |          | 4 for attaching Sabertooth                                                                             |      |
+|                                   |          | 4 for attaching Syren                                                                                  |      |
+|                                   |          | 4 for attaching Relay board                                                                            |      |
+|                                   |          | 4 for attaching Slipring-Adapter-PCB                                                                   |      |
+|                                   |          | 4 for attaching 12V 20A buck converter                                                                 |      |
+| **M3x10 mm Countersunk Screws**   | **12**   | Attaching the XT60 & XT90 to the adapters                                                              |      |
+| **M3x12 mm Countersunk Screws**   | **8**    | Attaching the fuse boxes to printed panels                                                             |      |
+| **M3 Locknuts**                   | **20**   | 8 for attaching fuse boxes to printed panels                                                           |      |
+|                                   |          | 12 for attaching XT60 & XT90 to the adapters                                                           |      |
+| **M4x18 mm Countersunk Screws**   | **4**    | Connecting the `Body-Adapter-Left-Bottom.stl` and `Body-Adapter-Right-Bottom.stl` to the body          |      |
+| **M4x40 mm Countersunk Screw**    | **1**    | Securing the MCU in the body using `Body-Adapter-Top-Knob.stl`                                         |      |
+| **M4 Square Nut**                 | **1**    | Securing the MCU in the body using `Body-Adapter-Top-Knob.stl`                                         |      |
+| **M3x5.7 mm Threaded Inserts**    | **160**  | To fill all available recordings on the frame (additional inserts may be required based on panel used) |      |
+| **M4x4x6 mm Threaded Inserts**    | **4**    | Connecting `Body-Adapter-Left-Bottom.stl` and `Body-Adapter-Right-Bottom.stl` to the body              |      |
+| **M3 Standoffs**                  | **40**   | Connecting the front and back frame                                                                    |      |
+| **15x10x4 mm Bearings**           | **4**    | Two each for `Body-Adapter-Left-Bottom.stl` and `Body-Adapter-Right-Bottom.stl`                        |      |
+| **Power Rails**                   | **4**    | Not used, but there are STLs if needed                                                                 |      |
+| **Step-down LCD**                 | **2**    | Power supply for 5V                                                                                    |      |
+| **12V 20A Buck Converter**        | **1**    | Power supply for 12V                                                                                   |      |
+| **XT60 Connectors**               | **5**    | Connection to left and right drive, dome, and speakers                                                 |      |
+| **XT90 Connector**                | **1**    | Main power connection of the batteries                                                                 |      |
+| **MPX-like Connectors**           | **2**    | To provide a power connection with 6 data lines to the body                                            |      |
+| **50V 50A Power Switch**          | **3**    | To switch the dome, drives, and main power                                                             |      |
 
 
 ### Assembly Instructions Frame
-
-- The assembly is relatively simple, as the entire "package" is stable once it has been assembled.
+> **Note:** 
+> - The assembly is relatively simple, as the entire "package" is stable once it has been assembled.
 
 #### Required Parts:
 - **15x10x4 mm bearings (4 pieces)**
