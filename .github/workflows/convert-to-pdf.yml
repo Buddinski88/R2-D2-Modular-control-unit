@@ -7,27 +7,29 @@ on:
     branches:
       - main
     paths:
-      - '*.md'               # Überwacht Änderungen an .md-Dateien im Root-Verzeichnis
-      - 'images/**'          # Überwacht Änderungen an Dateien in allen Unterverzeichnissen von /images
+      - '*.md'
+      - 'images/**'
 
 jobs:
   converttopdf:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3      # Setzt die Node.js-Version
         with:
-          node-version: '20'  # Nutze Node.js 20
+          node-version: '20'             # Node.js 20 verwenden
+
+      - uses: actions/checkout@v3        # Checkt das Repository aus
 
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: .            # Root-Verzeichnis als Eingabeverzeichnis (wo deine .md-Dateien liegen)
-          output_dir: pdfs         # Ausgabeverzeichnis für die PDFs
-          images_dir: images       # Verzeichnis, in dem die Bilder liegen (images/documentation, images/example)
-          image_import: ./images   # Pfad für Bilder in den Markdown-Dateien
-          build_html: false        # Nur PDF-Dateien generieren
+          input_dir: .
+          output_dir: pdfs
+          images_dir: images
+          image_import: ./images
+          build_html: false
 
       - uses: actions/upload-artifact@v3
         with:
           name: docs
-          path: pdfs               # Hochladen der PDFs als Artefakt
+          path: pdfs                     # Hochladen der generierten PDFs
