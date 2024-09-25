@@ -1,16 +1,13 @@
-# Documentation Modular Control Unit (MCU) [^1]
+# Documentation Modular Control Unit (MCU)
 
 <img src="./images/documentation/Frame-outside-with-panels.png" ></img>
 
-[^1]: Version 1.0 created by Bastian Oelkuch with Fusion360
+Version 1.0 created by Bastian Oelkuch with Fusion360
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
+<div style="page-break-after: always;"></div>
 
 # Table of content
-- [Documentation Modular Control Unit (MCU) \[^1\]](#documentation-modular-control-unit-mcu-1)
+- [Documentation Modular Control Unit (MCU)](#documentation-modular-control-unit-mcu)
 - [Table of content](#table-of-content)
 	- [General description and requirements](#general-description-and-requirements)
 	- [Overview of the design](#overview-of-the-design)
