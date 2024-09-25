@@ -15,9 +15,11 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v3      # Setzt die Node.js-Version
+      # Richtige Konfiguration für Node.js Version 20
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: '20'             # Node.js 20 verwenden
+          node-version: '20'             # Nutzt Node.js 20
 
       - uses: actions/checkout@v3        # Checkt das Repository aus
 
