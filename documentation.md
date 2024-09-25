@@ -1,4 +1,16 @@
+# Documentation Modular Control Unit (MCU) [^1]
+
+<img src="./images/documentation/Frame-outside-with-panels.png" ></img>
+
+[^1]: Version 1.0 created by Bastian Oelkuch with Fusion360
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+
 # Table of content
+- [Documentation Modular Control Unit (MCU) \[^1\]](#documentation-modular-control-unit-mcu-1)
 - [Table of content](#table-of-content)
 	- [General description and requirements](#general-description-and-requirements)
 	- [Overview of the design](#overview-of-the-design)
@@ -19,6 +31,7 @@
 			- [Disassembly:](#disassembly)
 		- [Assembly instructions panels](#assembly-instructions-panels)
 
+<div style="page-break-after: always;"></div>
 
 > [!WARNING]  
 > I am not a trained electrician and cannot take any responsibility for any damage or injury that may occur.
@@ -31,45 +44,45 @@
 
 ### Frame
 
-<img src="images/documentation/Body-Adapters.png" width="25%"></img>
-<img src="images/documentation/Frame-Adapters.png" width="25%"></img>
-<img src="images/documentation/Frame-assembled.png" width="25%"></img>
+<img src="./images/documentation/Body-Adapters.png" width="25%"></img>
+<img src="./images/documentation/Frame-Adapters.png" width="25%"></img>
+<img src="./images/documentation/Frame-assembled.png" width="25%"></img>
 
-<img src="images/documentation/Frame-attached-to-Body.png" width="25%"></img>
-<img src="images/documentation/Frame-inside-with-panels.png" width="25%"></img>
-<img src="images/documentation/Frame-outside-with-panels.png" width="25%"></img>
+<img src="./images/documentation/Frame-attached-to-Body.png" width="25%"></img>
+<img src="./images/documentation/Frame-inside-with-panels.png" width="25%"></img>
+<img src="./images/documentation/Frame-outside-with-panels.png" width="25%"></img>
 
 ### Panels
 
 | Name                             | Screenshot |
 | -------------------------------- | -------- |
-| Panel-AstroCan-Pro-Dual-Shield_d1x2.stl | <img src="images/documentation/Panel-AstroCan-Pro-Dual-Shield_d1x2.png" width="25%"></img> |
-| Panel-Audio_d1x2.stl | <img src="images/documentation/Panel-Audio_d1x2.png" width="25%"></img> |
-| Panel-Blank_d1x1.stl| <img src="images/documentation/Panel-Blank_d1x1.png" width="25%"></img> |
-| Panel-Blank_d2x1.stl | <img src="images/documentation/Panel-Blank_d2x1.png" width="25%"></img> |
-| Panel-Blank-open_d1x1.stl | <img src="images/documentation/Panel-Blank-open_d1x1.png" width="25%"></img> |
-| Panel-Body-Master-MPX_d1x1.stl | <img src="images/documentation/Panel-Body-Master-MPX_d1x1.png" width="25%"></img> |
-| Panel-Buck-Converter-12v-20A_d1x1.stl | <img src="images/documentation/Panel-Buck-Converter-12v-20A_d1x1.png" width="25%"></img> |
-| Panel-Dome-50A-Switch_d1x1.stl | <img src="images/documentation/Panel-Dome-50A-Switch_d1x1.png" width="25%"></img> |
-| Panel-Dome-Slip-Ring-Adapter_d2x1.stl | <img src="images/documentation/Panel-Dome-Slip-Ring-Adapter_d2x1.png" width="25%"></img> |
-| Panel-Dome-XT60_d1x1.stl | <img src="images/documentation/Panel-Dome-XT60_d1x1.png" width="25%"></img> |
-| Panel-Double-30A-Relay-Board-Drives-XT60-Connectors_d2x2.stl | <img src="images/documentation/Panel-Double-30A-Relay-Board-Drives-XT60-Connectors_d2x2.png" width="25%"></img> |
-| Panel-Drives-50A-Switch_d1x1.stl | <img src="images/documentation/Panel-Drives-50A-Switch_d1x1.png" width="25%"></img> |
-| Panel-Fusebox_d2x2.stl | <img src="images/documentation/Panel-Fusebox_d2x2.png" width="25%"></img> |
-| Panel-Fusebox_d3x2.stl | <img src="images/documentation/Panel-Fusebox_d3x2.png" width="25%"></img> |
-| Panel-Main-50A-Switch_d1x1.stl | <img src="images/documentation/Panel-Main-50A-Switch_d1x1.png" width="25%"></img> |
-| Panel-Main-XT90_d1x1.stl | <img src="images/documentation/Panel-Main-XT90_d1x1.png" width="25%"></img> |
-| Panel-PDB-12V_d1x2.stl | <img src="images/documentation/Panel-PDB-12V_d1x2.png" width="25%"></img> |
-| Panel-PDB-24V_d1x2.stl | <img src="images/documentation/Panel-PDB-24V_d1x2.png" width="25%"></img> |
-| Panel-PDB-Modular_d2x1.stl | <img src="images/documentation/Panel-PDB-Modular_d2x1.png" width="25%"></img> |
-| Panel-Sabertooth-32A_d2x2.stl | <img src="images/documentation/Panel-Sabertooth-32A_d2x2.png" width="25%"></img> |
-| Panel-Speaker-XT60_d1x1.stl | <img src="images/documentation/Panel-Speaker-XT60_d1x1.png" width="25%"></img> |
-| Panel-Switch-Left-Leg_d1x1.stl | <img src="images/documentation/Panel-Switch-Left-Leg_d1x1.png" width="25%"></img> |
-| Panel-Switch-Right-Leg_d1x1.stl | <img src="images/documentation/Panel-Switch-Right-Leg_d1x1.png" width="25%"></img> |
-| Panel-Syren-10A_d2x1.stl | <img src="images/documentation/Panel-Syren-10A_d2x1.png" width="25%"></img> |
-| Panel-XT60-Left-Leg_d1x1.stl | <img src="images/documentation/Panel-XT60-Left-Leg_d1x1.png" width="25%"></img> |
-| Panel-XT60-Right-Leg_d1x1.stl | <img src="images/documentation/Panel-XT60-Right-Leg_d1x1.png" width="25%"></img> |
-| Stand_x2.stl | <img src="images/documentation/Stand.png" width="25%"></img>
+| Panel-AstroCan-Pro-Dual-Shield_d1x2.stl | <img src="./images/documentation/Panel-AstroCan-Pro-Dual-Shield_d1x2.png" width="25%"></img> |
+| Panel-Audio_d1x2.stl | <img src="./images/documentation/Panel-Audio_d1x2.png" width="25%"></img> |
+| Panel-Blank_d1x1.stl| <img src="./images/documentation/Panel-Blank_d1x1.png" width="25%"></img> |
+| Panel-Blank_d2x1.stl | <img src="./images/documentation/Panel-Blank_d2x1.png" width="25%"></img> |
+| Panel-Blank-open_d1x1.stl | <img src="./images/documentation/Panel-Blank-open_d1x1.png" width="25%"></img> |
+| Panel-Body-Master-MPX_d1x1.stl | <img src="./images/documentation/Panel-Body-Master-MPX_d1x1.png" width="25%"></img> |
+| Panel-Buck-Converter-12v-20A_d1x1.stl | <img src="./images/documentation/Panel-Buck-Converter-12v-20A_d1x1.png" width="25%"></img> |
+| Panel-Dome-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Dome-50A-Switch_d1x1.png" width="25%"></img> |
+| Panel-Dome-Slip-Ring-Adapter_d2x1.stl | <img src="./images/documentation/Panel-Dome-Slip-Ring-Adapter_d2x1.png" width="25%"></img> |
+| Panel-Dome-XT60_d1x1.stl | <img src="./images/documentation/Panel-Dome-XT60_d1x1.png" width="25%"></img> |
+| Panel-Double-30A-Relay-Board-Drives-XT60-Connectors_d2x2.stl | <img src="./images/documentation/Panel-Double-30A-Relay-Board-Drives-XT60-Connectors_d2x2.png" width="25%"></img> |
+| Panel-Drives-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Drives-50A-Switch_d1x1.png" width="25%"></img> |
+| Panel-Fusebox_d2x2.stl | <img src="./images/documentation/Panel-Fusebox_d2x2.png" width="25%"></img> |
+| Panel-Fusebox_d3x2.stl | <img src="./images/documentation/Panel-Fusebox_d3x2.png" width="25%"></img> |
+| Panel-Main-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Main-50A-Switch_d1x1.png" width="25%"></img> |
+| Panel-Main-XT90_d1x1.stl | <img src="./images/documentation/Panel-Main-XT90_d1x1.png" width="25%"></img> |
+| Panel-PDB-12V_d1x2.stl | <img src="./images/documentation/Panel-PDB-12V_d1x2.png" width="25%"></img> |
+| Panel-PDB-24V_d1x2.stl | <img src="./images/documentation/Panel-PDB-24V_d1x2.png" width="25%"></img> |
+| Panel-PDB-Modular_d2x1.stl | <img src="./images/documentation/Panel-PDB-Modular_d2x1.png" width="25%"></img> |
+| Panel-Sabertooth-32A_d2x2.stl | <img src="./images/documentation/Panel-Sabertooth-32A_d2x2.png" width="25%"></img> |
+| Panel-Speaker-XT60_d1x1.stl | <img src="./images/documentation/Panel-Speaker-XT60_d1x1.png" width="25%"></img> |
+| Panel-Switch-Left-Leg_d1x1.stl | <img src="./images/documentation/Panel-Switch-Left-Leg_d1x1.png" width="25%"></img> |
+| Panel-Switch-Right-Leg_d1x1.stl | <img src="./images/documentation/Panel-Switch-Right-Leg_d1x1.png" width="25%"></img> |
+| Panel-Syren-10A_d2x1.stl | <img src="./images/documentation/Panel-Syren-10A_d2x1.png" width="25%"></img> |
+| Panel-XT60-Left-Leg_d1x1.stl | <img src="./images/documentation/Panel-XT60-Left-Leg_d1x1.png" width="25%"></img> |
+| Panel-XT60-Right-Leg_d1x1.stl | <img src="./images/documentation/Panel-XT60-Right-Leg_d1x1.png" width="25%"></img> |
+| Stand_x2.stl | <img src="./images/documentation/Stand.png" width="25%"></img>
 
 
 ## Parts list
