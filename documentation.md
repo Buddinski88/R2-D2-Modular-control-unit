@@ -2,7 +2,7 @@
 
 <img src="./images/documentation/Frame-outside-with-panels.png" ></img>
 
-Version 1.0 created by Bastian Oelkuch with Fusion360
+Version 1.0 created by [Bastian Oelkuch](https://www.bastian-oelkuch.de) with Fusion360
 
 <div style="page-break-after: always;"></div>
 
