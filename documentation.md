@@ -25,7 +25,7 @@
 
 ## General description and requirements
 - All files have numbers at the end `d1x1` means that the panel has a size of 60x60mm.
-- The panels only have the size at the end because the quantity depends on your setup. Only in some cases you will find `x2` at the end. E. g. for the Stand.
+- The panels only have the size at the end because the quantity depends on your setup. Only in some cases you will find `x2` at the end. E.g. for the Stand.
 
 ## Overview of the design
 
@@ -79,19 +79,19 @@
 | Type                             | Quantity | Used for                                                                                               | Link |
 | -------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | ---- |
 | **M2x10 mm Cylinder Head Screw** | **8**    | Attaching amplifier and MPX-like connector to printed panels                                           |      |
-| **M2x10 mm Cylinder Head Screw** | **2**    | Attaching Arduino Mega2560 + AstroCan Shield                                             |      |
+| **M2x10 mm Cylinder Head Screw** | **2**    | Attaching Arduino Mega2560 + AstroCan Shield to the printed panel                                      |      |
 | **M3x6 mm Pan Head Screw**       | **104**  | 80 for connecting the front and back frame to the standoffs                                            |      |
-|                                  |          | 2 for attaching Arduino Mega2560 + AstroCan Shield                                                     |      |
-|                                  |          | 4 for attaching Sabertooth                                                                             |      |
-|                                  |          | 4 for attaching Syren                                                                                  |      |
-|                                  |          | 4 for attaching Relay board                                                                            |      |
-|                                  |          | 4 for attaching Slipring-Adapter-PCB                                                                   |      |
-|                                  |          | 4 for attaching 12V 20A buck converter                                                                 |      |
+|                                  |          | 2 for attaching Arduino Mega2560 + AstroCan Shield to the printed üanel                                |      |
+|                                  |          | 4 for attaching Sabertooth to the printed panel                                                        |      |
+|                                  |          | 4 for attaching Syren  to the printed panel                                                            |      |
+|                                  |          | 4 for attaching Relay board  to the printed panel                                                      |      |
+|                                  |          | 4 for attaching Slipring-Adapter-PCB to the printed panel                                              |      |
+|                                  |          | 4 for attaching 12V 20A buck converter to the printed panel                                            |      |
 | **M3x10 mm Countersunk Screw**   | **12**   | Attaching the XT60 & XT90 to the adapters                                                              |      |
 | **M3x12 mm Countersunk Screw**   | **8**    | Attaching the fuse boxes to printed panels                                                             |      |
 | **M3 Locknut**                   | **20**   | 8 for attaching fuse boxes to printed panels                                                           |      |
 |                                  |          | 12 for attaching XT60 & XT90 to the adapters                                                           |      |
-| **M4x18 mm Countersunk Screw**   | **4**    | Connecting the `Body-Adapter-left.stl` and `Body-Adapter-right.stl` to the body          |      |
+| **M4x18 mm Countersunk Screw**   | **4**    | Connecting the `Body-Adapter-left.stl` and `Body-Adapter-right.stl` to the body                        |      |
 | **M4x25 mm Countersunk Screw**   | **2**    | Screwing the `Frame-Adapter-pin-left.stl` and `Frame-Adapter-pin-right.stl` to `Frame-Connector-left.stl` and `Frame-Connector-right.stl`                                                                  |      |
 | **M4x40 mm Countersunk Screw**   | **1**    | Securing the MCU in the body using `Body-Adapter-Top-Knob.stl`                                         |      |
 | **M4 Square Nut**                | **1**    | Securing the MCU in the body using `Body-Adapter-Top-Knob.stl`                                         |      |
