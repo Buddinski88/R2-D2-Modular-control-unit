@@ -13,6 +13,7 @@ on:
 jobs:
   converttopdf:
     name: Build PDF
+    if: ${{ false }} # <- This make sure the workflow is skipped without any alert
     runs-on: ubuntu-latest
     steps:
       - name: Set up Node.js
@@ -30,7 +31,7 @@ jobs:
           output_dir: ./pdfs             # Output-Pfad innerhalb von GITHUB_WORKSPACE
           images_dir: ./images           # Bilderverzeichnis innerhalb von GITHUB_WORKSPACE
           image_import: ./images         # Pfad für die Bildimportfunktion
-          build_html: false              # Nur PDF erzeugen
+          build_html: true              # Nur PDF erzeugen
 
       - name: Upload PDFs
         uses: actions/upload-artifact@v3
