@@ -2,31 +2,31 @@
 
 <img src="./images/documentation/Frame-outside-with-panels.png" ></img>
 
-Version 1.0 created by [Bastian Oelkuch](https://www.bastian-oelkuch.de) with Fusion360
+<p style="text-align: center;">Version 1.0 created by Bastian Oelkuch with Fusion360</p>
 
 <div style="page-break-after: always;"></div>
 
 # Table of content
 - [Documentation Modular Control Unit (MCU)](#documentation-modular-control-unit-mcu)
 - [Table of content](#table-of-content)
-	- [General description and requirements](#general-description-and-requirements)
-	- [Overview of the design](#overview-of-the-design)
-		- [Frame](#frame)
-		- [Panels](#panels)
-	- [Parts list](#parts-list)
-		- [Screws and Nuts](#screws-and-nuts)
-		- [Threaded inserts, Standoffs \& Bearings](#threaded-inserts-standoffs--bearings)
-		- [Connectors and Switches](#connectors-and-switches)
-		- [Boards](#boards)
-	- [Assembly Instructions for the Frame](#assembly-instructions-for-the-frame)
-		- [1. Preparation of the Body Adapters](#1-preparation-of-the-body-adapters)
-		- [2. Preparation of the Frame](#2-preparation-of-the-frame)
-		- [3. Assembly the Frame](#3-assembly-the-frame)
-		- [4. Assembly of the Screwable Body Adapter](#4-assembly-of-the-screwable-body-adapter)
-		- [Assembly on the Body](#assembly-on-the-body)
-			- [Assembly Instructions:](#assembly-instructions)
-			- [Disassembly:](#disassembly)
-		- [Assembly instructions panels](#assembly-instructions-panels)
+  - [General description and requirements](#general-description-and-requirements)
+  - [Overview of the design](#overview-of-the-design)
+    - [Frame](#frame)
+    - [Panels](#panels)
+  - [Parts list](#parts-list)
+    - [Screws and Nuts](#screws-and-nuts)
+    - [Threaded inserts, Standoffs \& Bearings](#threaded-inserts-standoffs--bearings)
+    - [Connectors and Switches](#connectors-and-switches)
+    - [Boards](#boards)
+  - [Assembly Instructions for the Frame](#assembly-instructions-for-the-frame)
+    - [1. Preparation of the Body Adapters](#1-preparation-of-the-body-adapters)
+    - [2. Preparation of the Frame](#2-preparation-of-the-frame)
+    - [3. Assembly the Frame](#3-assembly-the-frame)
+    - [4. Assembly of the Screwable Body Adapter](#4-assembly-of-the-screwable-body-adapter)
+    - [Assembly on the Body](#assembly-on-the-body)
+      - [Assembly Instructions:](#assembly-instructions)
+      - [Disassembly:](#disassembly)
+    - [Assembly instructions panels](#assembly-instructions-panels)
 
 <div style="page-break-after: always;"></div>
 
@@ -41,46 +41,47 @@ Version 1.0 created by [Bastian Oelkuch](https://www.bastian-oelkuch.de) with Fu
 
 ### Frame
 
-<img src="./images/documentation/Body-Adapters.png" width="25%"></img>
-<img src="./images/documentation/Frame-Adapters.png" width="25%"></img>
-<img src="./images/documentation/Frame-assembled.png" width="25%"></img>
+<img src="./images/documentation/Body-Adapters.png" width="45%"></img>
+<img src="./images/documentation/Frame-Adapters.png" width="45%"></img>
+<img src="./images/documentation/Frame-assembled.png" width="45%"></img>
+<img src="./images/documentation/Frame-attached-to-Body.png" width="45%"></img>
+<img src="./images/documentation/Frame-inside-with-panels.png" width="45%"></img>
+<img src="./images/documentation/Frame-outside-with-panels.png" width="45%"></img>
 
-<img src="./images/documentation/Frame-attached-to-Body.png" width="25%"></img>
-<img src="./images/documentation/Frame-inside-with-panels.png" width="25%"></img>
-<img src="./images/documentation/Frame-outside-with-panels.png" width="25%"></img>
+<div style="page-break-after: always;"></div>
 
 ### Panels
 
 | Name                             | Screenshot |
 | -------------------------------- | -------- |
-| Panel-AstroCan-Pro-Dual-Shield_d1x2.stl | <img src="./images/documentation/Panel-AstroCan-Pro-Dual-Shield_d1x2.png" width="25%"></img> |
-| Panel-Audio_d1x2.stl | <img src="./images/documentation/Panel-Audio_d1x2.png" width="25%"></img> |
-| Panel-Blank_d1x1.stl| <img src="./images/documentation/Panel-Blank_d1x1.png" width="25%"></img> |
-| Panel-Blank_d2x1.stl | <img src="./images/documentation/Panel-Blank_d2x1.png" width="25%"></img> |
-| Panel-Blank-open_d1x1.stl | <img src="./images/documentation/Panel-Blank-open_d1x1.png" width="25%"></img> |
-| Panel-Body-Master-MPX_d1x1.stl | <img src="./images/documentation/Panel-Body-Master-MPX_d1x1.png" width="25%"></img> |
-| Panel-Buck-Converter-12v-20A_d1x1.stl | <img src="./images/documentation/Panel-Buck-Converter-12v-20A_d1x1.png" width="25%"></img> |
-| Panel-Dome-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Dome-50A-Switch_d1x1.png" width="25%"></img> |
-| Panel-Dome-Slip-Ring-Adapter_d2x1.stl | <img src="./images/documentation/Panel-Dome-Slip-Ring-Adapter_d2x1.png" width="25%"></img> |
-| Panel-Dome-XT60_d1x1.stl | <img src="./images/documentation/Panel-Dome-XT60_d1x1.png" width="25%"></img> |
-| Panel-Double-30A-Relay-Board-Drives-XT60-Connectors_d2x2.stl | <img src="./images/documentation/Panel-Double-30A-Relay-Board-Drives-XT60-Connectors_d2x2.png" width="25%"></img> |
-| Panel-Drives-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Drives-50A-Switch_d1x1.png" width="25%"></img> |
-| Panel-Fusebox_d2x2.stl | <img src="./images/documentation/Panel-Fusebox_d2x2.png" width="25%"></img> |
-| Panel-Fusebox_d3x2.stl | <img src="./images/documentation/Panel-Fusebox_d3x2.png" width="25%"></img> |
-| Panel-Main-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Main-50A-Switch_d1x1.png" width="25%"></img> |
-| Panel-Main-XT90_d1x1.stl | <img src="./images/documentation/Panel-Main-XT90_d1x1.png" width="25%"></img> |
-| Panel-PDB-12V_d1x2.stl | <img src="./images/documentation/Panel-PDB-12V_d1x2.png" width="25%"></img> |
-| Panel-PDB-24V_d1x2.stl | <img src="./images/documentation/Panel-PDB-24V_d1x2.png" width="25%"></img> |
-| Panel-PDB-Modular_d2x1.stl | <img src="./images/documentation/Panel-PDB-Modular_d2x1.png" width="25%"></img> |
-| Panel-Sabertooth-32A_d2x2.stl | <img src="./images/documentation/Panel-Sabertooth-32A_d2x2.png" width="25%"></img> |
-| Panel-Speaker-XT60_d1x1.stl | <img src="./images/documentation/Panel-Speaker-XT60_d1x1.png" width="25%"></img> |
-| Panel-Switch-Left-Leg_d1x1.stl | <img src="./images/documentation/Panel-Switch-Left-Leg_d1x1.png" width="25%"></img> |
-| Panel-Switch-Right-Leg_d1x1.stl | <img src="./images/documentation/Panel-Switch-Right-Leg_d1x1.png" width="25%"></img> |
-| Panel-Syren-10A_d2x1.stl | <img src="./images/documentation/Panel-Syren-10A_d2x1.png" width="25%"></img> |
-| Panel-XT60-Left-Leg_d1x1.stl | <img src="./images/documentation/Panel-XT60-Left-Leg_d1x1.png" width="25%"></img> |
-| Panel-XT60-Right-Leg_d1x1.stl | <img src="./images/documentation/Panel-XT60-Right-Leg_d1x1.png" width="25%"></img> |
-| Stand_x2.stl | <img src="./images/documentation/Stand.png" width="25%"></img>
-
+| Panel-AstroCan-Pro-Dual-Shield_d1x2.stl | <img src="./images/documentation/Panel-AstroCan-Pro-Dual-Shield_d1x2.png"  width="30%"></img> |
+| Panel-Audio_d1x2.stl | <img src="./images/documentation/Panel-Audio_d1x2.png"  width="30%"></img> |
+| Panel-Blank_d1x1.stl| <img src="./images/documentation/Panel-Blank_d1x1.png"  width="30%"></img> |
+| Panel-Blank_d2x1.stl | <img src="./images/documentation/Panel-Blank_d2x1.png"  width="30%"></img> |
+| Panel-Blank-open_d1x1.stl | <img src="./images/documentation/Panel-Blank-open_d1x1.png"  width="30%"></img> |
+| Panel-Body-Master-MPX_d1x1.stl | <img src="./images/documentation/Panel-Body-Master-MPX_d1x1.png"  width="30%"></img> |
+| Panel-Buck-Converter-12v-20A_d1x1.stl | <img src="./images/documentation/Panel-Buck-Converter-12v-20A_d1x1.png"  width="30%"></img> |
+| Panel-Dome-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Dome-50A-Switch_d1x1.png"  width="30%"></img> |
+| Panel-Dome-Slip-Ring-Adapter_d2x1.stl | <img src="./images/documentation/Panel-Dome-Slip-Ring-Adapter_d2x1.png"  width="30%"></img> |
+| Panel-Dome-XT60_d1x1.stl | <img src="./images/documentation/Panel-Dome-XT60_d1x1.png"  width="30%"></img> |
+| Panel-Double-30A-Relay-Board-Drives-XT60-Connectors_d2x2.stl | <img src="./images/documentation/Panel-Double-30A-Relay-Board-Drives-XT60-Connectors_d2x2.png"  width="30%"></img> |
+| Panel-Drives-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Drives-50A-Switch_d1x1.png"  width="30%"></img> |
+| Panel-Fusebox_d2x2.stl | <img src="./images/documentation/Panel-Fusebox_d2x2.png"  width="30%"></img> |
+| Panel-Fusebox_d3x2.stl | <img src="./images/documentation/Panel-Fusebox_d3x2.png"  width="30%"></img> |
+| Panel-Main-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Main-50A-Switch_d1x1.png"  width="30%"></img> |
+| Panel-Main-XT90_d1x1.stl | <img src="./images/documentation/Panel-Main-XT90_d1x1.png"  width="30%"></img> |
+| Panel-PDB-12V_d1x2.stl | <img src="./images/documentation/Panel-PDB-12V_d1x2.png"  width="30%"></img> |
+| Panel-PDB-24V_d1x2.stl | <img src="./images/documentation/Panel-PDB-24V_d1x2.png"  width="30%"></img> |
+| Panel-PDB-Modular_d2x1.stl | <img src="./images/documentation/Panel-PDB-Modular_d2x1.png"  width="30%"></img> |
+| Panel-Sabertooth-32A_d2x2.stl | <img src="./images/documentation/Panel-Sabertooth-32A_d2x2.png"  width="30%"></img> |
+| Panel-Speaker-XT60_d1x1.stl | <img src="./images/documentation/Panel-Speaker-XT60_d1x1.png"  width="30%"></img> |
+| Panel-Switch-Left-Leg_d1x1.stl | <img src="./images/documentation/Panel-Switch-Left-Leg_d1x1.png"  width="30%"></img> |
+| Panel-Switch-Right-Leg_d1x1.stl | <img src="./images/documentation/Panel-Switch-Right-Leg_d1x1.png"  width="30%"></img> |
+| Panel-Syren-10A_d2x1.stl | <img src="./images/documentation/Panel-Syren-10A_d2x1.png"  width="30%"></img> |
+| Panel-XT60-Left-Leg_d1x1.stl | <img src="./images/documentation/Panel-XT60-Left-Leg_d1x1.png"  width="30%"></img> |
+| Panel-XT60-Right-Leg_d1x1.stl | <img src="./images/documentation/Panel-XT60-Right-Leg_d1x1.png"  width="30%"></img> |
+| Stand_x2.stl | <img src="./images/documentation/Stand.png"  width="30%"></img>
+<div style="page-break-after: always;"></div>
 
 ## Parts list
 
@@ -115,6 +116,7 @@ Version 1.0 created by [Bastian Oelkuch](https://www.bastian-oelkuch.de) with Fu
 | **M4x4x6 mm Threaded Insert**    | **4**    | Connecting `Body-Adapter-left.stl` and `Body-Adapter-right.stl` to the body              |      |
 | **M3x25 mm Standoffs**           | **40**   | Connecting the `Frame-Complete_x2.stl` (if you have a big enougth printer) or `Frame-Modular-End_x4.stl` and `Frame-Modular-Middle_x6.stl` to the frame adapters                                                                  | [AliExpress](https://de.aliexpress.com/item/1005003175580805.html)      |
 | **15x10x4 mm Bearings**          | **4**    | Two each for `Body-Adapter-left.stl` and `Body-Adapter-right.stl`                        |      |
+<div style="page-break-after: always;"></div>
 
 ### Connectors and Switches
 
@@ -140,9 +142,10 @@ Version 1.0 created by [Bastian Oelkuch](https://www.bastian-oelkuch.de) with Fu
 | **AstroCan Pro Dual Shield**     | **1**   | "The Brain"                                                                                             | [printed-droid.com](https://shop.printed-droid.com/produkt/astrocan-pro-dual-shield/)     |
 | **Hifi Amplifier**               | **1**   | Audiointerface                                                                                          | [Amazon](https://www.amazon.de/ZHITING-Bluetooth-Verst%C3%A4rkerplatine-Audioverst%C3%A4rkerplatine-LC-Filtertechnik-Zweikanal-DC8-24V/dp/B088N6Z9TB)     |
 | **Fusebox**                      | **2**   | To get everything secured                                                                               | [AliExpress](https://de.aliexpress.com/item/1005005923377932.html)     |
+<div style="page-break-after: always;"></div>
 
 ## Assembly Instructions for the Frame
-> **Note:** 
+> [!NOTE]  
 > - The assembly is relatively simple, as the entire "package/unit" is stable once it has been assembled.
 
 **Required Parts**:
@@ -162,11 +165,13 @@ Version 1.0 created by [Bastian Oelkuch](https://www.bastian-oelkuch.de) with Fu
    4. **Optional**: If necessary, two additional screws and threaded inserts can be installed on each side.
 
 ### 2. Preparation of the Frame
-> **Note:**  
+> [!NOTE]  
 > - If the build volume is larger than that of a Bambu Lab X1C, `Frame-Complete_x2.stl` can be printed twice.
 > - If the build volume is smaller than that of a Bambu Lab X1C, `Frame-Modular-End_x4.stl` must be printed four times and `Frame-Modular-Middle_x6.stl` six times.
 
 1. Melt in **80 M3x5.7 mm threaded inserts** per side (fewer inserts may be used depending on how the modules are arranged).
+
+<div style="page-break-after: always;"></div>
 
 ### 3. Assembly the Frame
 1. Attach the **40 M3x25 mm standoffs** to one side of the frame using **40 M3x6 mm pan head screws**.

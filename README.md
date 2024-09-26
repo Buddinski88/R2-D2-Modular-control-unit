@@ -1,6 +1,6 @@
 # R2D2 Modular control unit (MCU)
 
-> [!CAUTION]
+> [!NOTE]  
 > - My MKIII R2D2 is still **work-in-progress** therefore i some changes in the design are possible!
 
 # General
@@ -19,13 +19,14 @@
 
 ## Used Mods & Kudos
 
-> [!NOTE]
+> [!NOTE]  
 > - The following list contains an overview of the mods that I currently use in my Droid. It is not mandatory to use them as well, but I can confirm that they are compatible with each other.
 
 - [Battery Tray for Baddeley MKIII Astromech](https://www.printables.com/de/model/192002-battery-tray-for-baddeley-mkiii-astromech) by [Jason Charlton | Printables.com](https://www.printables.com/de/@JasonCharlton_264357) (he also has many other great mods!)
 - Dome Motor Mount by [Gonz Pousada J Luis](https://www.facebook.com/groups/MrBaddeley/posts/3683034678691760/).
 - Both Luis and Jason have other fantastic mods, and you should also check out [Jason's YouTube Channel](https://www.youtube.com/@jasonsR2D2).
 - A special thanks to Ben from [Printed Droid](https://printed-droid.com), who provided me with the electronic components, and to Norbert A. Richartz, who is developing the AstroCan System and [BetterDuinoFirmwareV4](https://github.com/RealNobser/BetterDuinoFirmwareV4). He answered nearly all my questions and integrated some cool features.
+<div style="page-break-after: always;"></div>
 
 ## Images
-<img src="images/example/Built-in_outside.JPEG" width="30%"></img> <img src="images/example/Built-in_folded-out.JPEG" width="30%"></img> <img src="images/example/Built-in_inside.JPEG" width="30%"></img> <img src="images/example/Detached-inside.JPEG" width="30%"></img> <img src="images/example/Detached-outside.JPEG" width="30%"></img>
+<img src="./images/example/Built-in_outside.JPEG" width="30%"></img> <img src="./images/example/Built-in_folded-out.JPEG" width="30%"></img> <img src="./images/example/Built-in_inside.JPEG" width="30%"></img> <img src="./images/example/Detached-inside.JPEG" width="30%"></img> <img src="./images/example/Detached-outside.JPEG" width="30%"></img>
