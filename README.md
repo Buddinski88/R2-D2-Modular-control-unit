@@ -3,9 +3,7 @@
 > [!NOTE]  
 > - My MKIII R2D2 is still **work-in-progress** therefore i some changes in the design are possible!
 
-# General
-
-## Motivation
+## General motivation
 - There are many good solutions for organizing all the control electronics for the whole selection of R2D2 bodys.
 - However, none of these solutions fully met my requirements, so I designed my own interpretation of a modular control unit `the brain`.
   - Special thanks to everyone who inspired me, particularly John van Ohrs with his [R2D2 modular electronics panel by jfmvoers - Thingiverse](https://www.thingiverse.com/thing:6580609) and Tim Eebel with his [MarkIII Hinged Electronics Panel](https://www.printables.com/model/614178-markiii-hinged-electronics-panel).
