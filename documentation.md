@@ -2,7 +2,7 @@
 
 <img src="./images/documentation/Frame-outside-with-panels.png" ></img>
 
-<p style="text-align: center;">Version 1.0 created by Bastian Oelkuch with Fusion360</p>
+<p style="text-align: center;">Version 1.1 created by Bastian Oelkuch with Fusion360</p>
 
 <div style="page-break-after: always;"></div>
 
@@ -27,6 +27,7 @@
       - [Assembly Instructions:](#assembly-instructions)
       - [Disassembly:](#disassembly)
     - [Assembly instructions panels](#assembly-instructions-panels)
+  - [Community panels](#community-panels)
 
 <div style="page-break-after: always;"></div>
 
@@ -213,3 +214,11 @@
 
 - The panels themselves are each attached to the frame with **1-n M3x6 mm pan head screws**.
 - In some cases, **M3x5.7 mm threaded inserts** are also required to attach the parts to the panels themselves.
+
+## Community panels
+
+> [!NOTE]
+> - The following list contains an overview of panels which were created by other users to extend the option what electronics can be used. Thank you so much!
+
+- Stephen Mathis has published [his created panels](https://www.facebook.com/groups/2152999025028674/?multi_permalinks=3957991467862745) on the Facebook group of Mr. Baddeley. He also posted a [video](https://www.facebook.com/share/v/1Ft1YTVtmM/).
+- [dadmin](https://makerworld.com/de/@user_2838957196) created a [set of panels](https://makerworld.com/de/models/1222082-r2d2-custom-panels-for-r2d2-modular-control-unit#profileId-1239080) to hold electronics like a voltmeter, new power terminals, Sparkfun MP3 Trigger, new AMP, XBOX receiver and Mini Maestro 24-Channel USB controller.

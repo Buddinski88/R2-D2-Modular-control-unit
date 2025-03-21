@@ -1,8 +1,5 @@
 # R2D2 Modular control unit (MCU)
 
-> [!NOTE]  
-> - My MKIII R2D2 is still **work-in-progress** therefore i some changes in the design are possible!
-
 ## General motivation
 - There are many good solutions for organizing all the control electronics for the whole selection of R2D2 bodys.
 - However, none of these solutions fully met my requirements, so I designed my own interpretation of a modular control unit `the brain`.
@@ -28,3 +25,11 @@
 
 ## Images
 <img src="./images/example/Built-in_outside.JPEG" width="30%"></img> <img src="./images/example/Built-in_folded-out.JPEG" width="30%"></img> <img src="./images/example/Built-in_inside.JPEG" width="30%"></img> <img src="./images/example/Detached-inside.JPEG" width="30%"></img> <img src="./images/example/Detached-outside.JPEG" width="30%"></img>
+
+## Community panels
+
+> [!NOTE]
+> - The following list contains an overview of panels which were created by other users to extend the option what electronics can be used. Thank you so much!
+
+- Stephen Mathis has published [his created panels](https://www.facebook.com/groups/2152999025028674/?multi_permalinks=3957991467862745) on the Facebook group of Mr. Baddeley. He also posted a [video](https://www.facebook.com/share/v/1Ft1YTVtmM/).
+- [dadmin](https://makerworld.com/de/@user_2838957196) created a [set of panels](https://makerworld.com/de/models/1222082-r2d2-custom-panels-for-r2d2-modular-control-unit#profileId-1239080) to hold electronics like a voltmeter, new power terminals, Sparkfun MP3 Trigger, new AMP, XBOX receiver and Mini Maestro 24-Channel USB controller.
