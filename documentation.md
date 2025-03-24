@@ -183,7 +183,7 @@
 ### 4. Assembly of the Screwable Body Adapter
 1. ``Body-Frame-Adapter-top.stl`` and ``Body-Frame-Adapter-top-Knob.stl``:
    1. Melt in **one M4x4x6 mm threaded insert**.
-   2. Attach to the body using **one M3x18 mm countersunk screw**, ensuring that the top edge of the adapter aligns with the mounting point on the body.
+   2. Attach to the body using **one M4x18 mm countersunk screw**, ensuring that the top edge of the adapter aligns with the mounting point on the body.
    3. Assemble the hand-tightened knob using **one M4 square nut** and **one M4x40 mm countersunk screw**.
 
 ### Assembly on the Body
