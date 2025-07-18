@@ -10,12 +10,13 @@
   - Everything must be possible without any special tools, i.e., plug-and-play instead of screws (almost achieved)!
 - To allow access when installed, the entire unit must be hinged (no tools required for this step).
 - The design must be modular, allowing it to be adapted to specific requirements.
-- The design must be based on a grid (60x60mm) and offers panels ranging from `1x1` to `1xX`.
+- The design must be based on a grid (60x60mm) and offers panels ranging from `1x1` to `NxN`.
 
 ## Used Mods & Kudos
 
-> [!NOTE]  
-> - The following list contains an overview of the mods that I currently use in my Droid. It is not mandatory to use them as well, but I can confirm that they are compatible with each other.
+<blockquote class="callout note">
+💡 <strong>NOTE:</strong> The following list contains an overview of the mods that I currently use in my Droid. It is not mandatory to use them as well, but I can confirm that they are compatible with each other.
+</blockquote>
 
 - [Battery Tray for Baddeley MKIII Astromech](https://www.printables.com/de/model/192002-battery-tray-for-baddeley-mkiii-astromech) by [Jason Charlton | Printables.com](https://www.printables.com/de/@JasonCharlton_264357) (he also has many other great mods!)
 - Dome Motor Mount by [Gonz Pousada J Luis](https://www.facebook.com/groups/MrBaddeley/posts/3683034678691760/).
@@ -24,12 +25,12 @@
 <div style="page-break-after: always;"></div>
 
 ## Images
-<img src="./images/example/Built-in_outside.JPEG" width="30%"></img> <img src="./images/example/Built-in_folded-out.JPEG" width="30%"></img> <img src="./images/example/Built-in_inside.JPEG" width="30%"></img> <img src="./images/example/Detached-inside.JPEG" width="30%"></img> <img src="./images/example/Detached-outside.JPEG" width="30%"></img>
+<img src="./images/example/Build-in_outside.JPEG" width="30%"></img> <img src="./images/example/Build-in_folded-out.JPEG" width="30%"></img> <img src="./images/example/Build-in_inside.JPEG" width="30%"></img> <img src="./images/example/Detached-inside.JPEG" width="30%"></img> <img src="./images/example/Detached-outside.JPEG" width="30%"></img>
 
 ## Community panels
 
-> [!NOTE]
-> - The following list contains an overview of panels which were created by other users to extend the option what electronics can be used. Thank you so much!
+<blockquote class="callout tip">
+🛠 <strong>TIP:</strong> The following link contains an overview of panels which were created by other users to extend the option what electronics can be used. Thank you so much!
+</blockquote>
 
-- Stephen Mathis has published [his created panels](https://www.facebook.com/groups/2152999025028674/?multi_permalinks=3957991467862745) on the Facebook group of Mr. Baddeley. He also posted a [video](https://www.facebook.com/share/v/1Ft1YTVtmM/).
-- [dadmin](https://makerworld.com/de/@user_2838957196) created a [set of panels](https://makerworld.com/de/models/1222082-r2d2-custom-panels-for-r2d2-modular-control-unit#profileId-1239080) to hold electronics like a voltmeter, new power terminals, Sparkfun MP3 Trigger, new AMP, XBOX receiver and Mini Maestro 24-Channel USB controller.
+[R2-D2 MCU-Panel-Collection](https://makerworld.com/de/collections/5528180-r2-d2-mcu-panel-collection)

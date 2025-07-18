@@ -1,0 +1,48 @@
+blockquote.callout {
+  padding: 1em;
+  margin: 1.5em 0;
+  border-left: 6px solid #ccc;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.05);
+  font-size: 0.95em;
+}
+
+/* Farbliche Typen */
+blockquote.callout.warning {
+  border-left-color: #d9534f;
+  background-color: #fcebea;
+}
+
+blockquote.callout.note {
+  border-left-color: #3a6066;
+  background-color: #eef7f8;
+}
+
+blockquote.callout.tip {
+  border-left-color: #f0ad4e;
+  background-color: #fff8e1;
+}
+
+blockquote.callout.important {
+  border-left-color: #5cb85c;
+  background-color: #eafaf1;
+}
+
+blockquote.callout code {
+  font-family: 'Courier New', Courier, monospace !important;
+  background-color: #f4f4f4 !important;
+  color: #c7254e !important;
+  padding: 2px 4px !important;
+  font-size: 90% !important;
+  border-radius: 4px !important;
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace !important;
+  background-color: #f4f4f4 !important;
+  color: #c7254e !important;
+  padding: 2px 4px !important;
+  font-size: 90% !important;
+  border-radius: 4px !important;
+}

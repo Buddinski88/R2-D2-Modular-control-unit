@@ -1,8 +1,8 @@
 # Documentation Modular Control Unit (MCU)
 
-<img src="./images/documentation/Frame-outside-with-panels.png" ></img>
+<img src="./images/documentation/Frame-outside-with-panels-firstpage.png"></img>
 
-<p style="text-align: center;">Version 1.1 created by Bastian Oelkuch with Fusion360</p>
+<p style="text-align: center;">Version 1.2 created by Bastian Oelkuch with Fusion360</p>
 
 <div style="page-break-after: always;"></div>
 
@@ -18,21 +18,26 @@
     - [Threaded inserts, Standoffs \& Bearings](#threaded-inserts-standoffs--bearings)
     - [Connectors and Switches](#connectors-and-switches)
     - [Boards](#boards)
-  - [Assembly Instructions for the Frame](#assembly-instructions-for-the-frame)
+  - [Assembly instructions for the Frame](#assembly-instructions-for-the-frame)
     - [1. Preparation of the Body Adapters](#1-preparation-of-the-body-adapters)
     - [2. Preparation of the Frame](#2-preparation-of-the-frame)
     - [3. Assembly the Frame](#3-assembly-the-frame)
-    - [4. Assembly of the Screwable Body Adapter](#4-assembly-of-the-screwable-body-adapter)
-    - [Assembly on the Body](#assembly-on-the-body)
-      - [Assembly Instructions:](#assembly-instructions)
-      - [Disassembly:](#disassembly)
-    - [Assembly instructions panels](#assembly-instructions-panels)
+    - [4. Assembly of the screwable Body Adapter](#4-assembly-of-the-screwable-body-adapter)
+    - [5. Assembly and disassembly on the Body](#5-assembly-and-disassembly-on-the-body)
+      - [5.1 Assembly](#51-assembly)
+      - [5.2 Disassembly](#52-disassembly)
+    - [6. Assembly instructions to attach the panels](#6-assembly-instructions-to-attach-the-panels)
   - [Community panels](#community-panels)
 
 <div style="page-break-after: always;"></div>
 
-> [!WARNING]  
-> I am not a trained electrician and cannot take any responsibility for any damage or injury that may occur.
+<blockquote class="callout warning">
+⚠️ <strong>WARNING:</strong> I am not a trained electrician and cannot take any responsibility for any damage or injury that may occur.
+</blockquote>
+
+<blockquote class="callout tip">
+   🛠 <strong>TIP:</strong> Have a look at the <a href="https://github.com/Buddinski88/R2-D2-Modular-body-backpack">R2-D2 Modular Body Backpack</a> if you also want a flexible solution to mount electronics to the Body of your R2 unit.
+</blockquote>
 
 ## General description and requirements
 - All files have numbers at the end `d1x1` means that the panel has a size of 60x60mm.
@@ -42,12 +47,12 @@
 
 ### Frame
 
-<img src="./images/documentation/Body-Adapters.png" width="45%"></img>
-<img src="./images/documentation/Frame-Adapters.png" width="45%"></img>
-<img src="./images/documentation/Frame-assembled.png" width="45%"></img>
-<img src="./images/documentation/Frame-attached-to-Body.png" width="45%"></img>
-<img src="./images/documentation/Frame-inside-with-panels.png" width="45%"></img>
-<img src="./images/documentation/Frame-outside-with-panels.png" width="45%"></img>
+<img src="./images/documentation/Body-Adapters.png" width="49%"></img>
+<img src="./images/documentation/Frame-Adapters.png" width="49%"></img>
+<img src="./images/documentation/Frame-assembled.png" width="49%"></img>
+<img src="./images/documentation/Frame-attached-to-Body.png" width="49%"></img>
+<img src="./images/documentation/Frame-inside-with-panels.png" width="49%"></img>
+<img src="./images/documentation/Frame-outside-with-panels.png" width="49%"></img>
 
 <div style="page-break-after: always;"></div>
 
@@ -56,10 +61,12 @@
 | Name                             | Screenshot |
 | -------------------------------- | -------- |
 | Panel-AstroCan-Pro-Dual-Shield_d1x2.stl | <img src="./images/documentation/Panel-AstroCan-Pro-Dual-Shield_d1x2.png"  width="30%"></img> |
+| Panel-AstroCan-AutoDome_d1x1.stl | <img src="./images/documentation/Panel-AstroCan-AutoDome_d1x1.png"  width="30%"></img> |
 | Panel-Audio_d1x2.stl | <img src="./images/documentation/Panel-Audio_d1x2.png"  width="30%"></img> |
 | Panel-Blank_d1x1.stl| <img src="./images/documentation/Panel-Blank_d1x1.png"  width="30%"></img> |
 | Panel-Blank_d2x1.stl | <img src="./images/documentation/Panel-Blank_d2x1.png"  width="30%"></img> |
 | Panel-Blank-open_d1x1.stl | <img src="./images/documentation/Panel-Blank-open_d1x1.png"  width="30%"></img> |
+| Panel-Blank-open-small_d1x1.stl | <img src="./images/documentation/Panel-Blank-open-small_d1x1.png"  width="30%"></img> |
 | Panel-Body-Master-MPX_d1x1.stl | <img src="./images/documentation/Panel-Body-Master-MPX_d1x1.png"  width="30%"></img> |
 | Panel-Buck-Converter-12v-20A_d1x1.stl | <img src="./images/documentation/Panel-Buck-Converter-12v-20A_d1x1.png"  width="30%"></img> |
 | Panel-Dome-50A-Switch_d1x1.stl | <img src="./images/documentation/Panel-Dome-50A-Switch_d1x1.png"  width="30%"></img> |
@@ -76,6 +83,7 @@
 | Panel-PDB-Modular_d2x1.stl | <img src="./images/documentation/Panel-PDB-Modular_d2x1.png"  width="30%"></img> |
 | Panel-Sabertooth-32A_d2x2.stl | <img src="./images/documentation/Panel-Sabertooth-32A_d2x2.png"  width="30%"></img> |
 | Panel-Speaker-XT60_d1x1.stl | <img src="./images/documentation/Panel-Speaker-XT60_d1x1.png"  width="30%"></img> |
+| Panel-Speaker-XT60-V2_d1x1.stl | <img src="./images/documentation/Panel-Speaker-XT60-V2_d1x1.png"  width="30%"></img> |
 | Panel-Switch-Left-Leg_d1x1.stl | <img src="./images/documentation/Panel-Switch-Left-Leg_d1x1.png"  width="30%"></img> |
 | Panel-Switch-Right-Leg_d1x1.stl | <img src="./images/documentation/Panel-Switch-Right-Leg_d1x1.png"  width="30%"></img> |
 | Panel-Syren-10A_d2x1.stl | <img src="./images/documentation/Panel-Syren-10A_d2x1.png"  width="30%"></img> |
@@ -92,8 +100,9 @@
 | -------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | ---- |
 | **M2x10 mm Cylinder Head Screw** | **8**    | Attaching amplifier and MPX-like connector to printed panels                                           |      |
 | **M2x10 mm Cylinder Head Screw** | **2**    | Attaching Arduino Mega2560 + AstroCan Shield to the printed panel                                      |      |
-| **M3x6 mm Pan Head Screw**       | **104**  | 80 for connecting the front and back frame to the standoffs                                            |      |
-|                                  |          | 2 for attaching Arduino Mega2560 + AstroCan Shield to the printed üanel                                |      |
+| **M2x10 mm Cylinder Head Screw** | **1**    | Attaching AstroCan AutoDome to the printed panel                                                       |      |
+| **M3x6 mm Pan Head Screw**       | **102**  | 80 for connecting the front and back frame to the standoffs                                            |      |
+|                                  |          | 2 for attaching Arduino Mega2560 + AstroCan Shield to the printed panel                                |      |
 |                                  |          | 4 for attaching Sabertooth to the printed panel                                                        |      |
 |                                  |          | 4 for attaching Syren  to the printed panel                                                            |      |
 |                                  |          | 4 for attaching Relay board  to the printed panel                                                      |      |
@@ -112,8 +121,8 @@
 
 | Type                             | Quantity | Used for                                                                                               | Link |
 | -------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | ---- |
-| **M2x3x3.2 mm Threaded Insert**  | **2**    | To attach the AstroCan DualShield to the `Panel-AstroCan-Pro-Dual-Shield_d1x2.stl` panel |
-| **M3x5.7 mm Threaded Insert**    | **160**  | To fill all available recordings on the frame (additional inserts may be required based on panel used) | [Amazon](https://www.amazon.de/gp/product/B08BCRZZS3)     |
+| **M2x3x3.2 mm Threaded Insert**  | **3**    | To attach the AstroCan DualShield to the `Panel-AstroCan-Pro-Dual-Shield_d1x2.stl` panel and AstroCan AutoDome to the `Panel-AstroCan-AutoDome_d1x1.stl` |
+| **M3x5.7 mm Threaded Insert**    | **160**  | To fill all available inserts on the frame (additional inserts may be required based on panel used) | [Amazon](https://www.amazon.de/gp/product/B08BCRZZS3)     |
 | **M4x4x6 mm Threaded Insert**    | **4**    | Connecting `Body-Adapter-left.stl` and `Body-Adapter-right.stl` to the body              |      |
 | **M3x25 mm Standoffs**           | **40**   | Connecting the `Frame-Complete_x2.stl` (if you have a big enougth printer) or `Frame-Modular-End_x4.stl` and `Frame-Modular-Middle_x6.stl` to the frame adapters                                                                  | [AliExpress](https://de.aliexpress.com/item/1005003175580805.html)      |
 | **15x10x4 mm Bearings**          | **4**    | Two each for `Body-Adapter-left.stl` and `Body-Adapter-right.stl`                        |      |
@@ -133,21 +142,27 @@
 
 | Type                             | Quantity | Used for                                                                                               | Link |
 | -------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ | ---- |
-| **5,5-30V 3A LCD Step-down**     | **0**    | Power supply for 5V                                                                                    | [AliExpress](https://de.aliexpress.com/item/1005002777283109.html)     |
+| **5,5-30V 3A LCD Step-down**     | **1**    | Power supply for 12V to AstroCan Shield                                                                | [AliExpress](https://de.aliexpress.com/item/1005002777283109.html)     |
+| **5,5-30V 3A LCD Step-down**     | **1**    | Power supply for 5V to AstroCan AutoDome                                                               | [AliExpress](https://de.aliexpress.com/item/1005002777283109.html)     |
 | **5V 15A Buck Converter**        | **2**    | Power supply for 5V                                                                                    | [AliExpress](https://de.aliexpress.com/item/1005006506300187.html)     |
 | **12V 20A Buck Converter**       | **1**    | Power supply for 12V                                                                                   | [Amazon](https://www.amazon.de/dp/B09GLT7RVS)      |
 | **SyRen 10A**                    | **1**    | Controller for Dome motor                                                                              | [RobotShop.com](https://eu.robotshop.com/de/products/syren-10a-6v-24v-regenerativer-motortreiber)     |
-| **Sabertooth Dual 2x32A**               | **1**    | Controller for Drive motors                                                                            | [RobotShop.com](https://eu.robotshop.com/de/products/sabertooth-dual-2x32a-6v-24v-regenerativer-motortreiber)     |
+| **Sabertooth Dual 2x32A**               | **1**    | Controller for Drive motors                                                                     | [RobotShop.com](https://eu.robotshop.com/de/products/sabertooth-dual-2x32a-6v-24v-regenerativer-motortreiber)     |
 | **Double 30 Relay Board**        | **1**    | Cut the power to between motors and Sabertooth                                                         | [printed-droid.com](https://shop.printed-droid.com/produkt/30a-relay-board/)      |
 | **12 Wire 8A Slip Ring Interface**  | **1**   | Connect Dome to Body                                                                                 | [printed-droid.com](https://shop.printed-droid.com/produkt/fused-12-wire-slipring-interface-2022/)     |
 | **AstroCan Pro Dual Shield**     | **1**   | "The Brain"                                                                                             | [printed-droid.com](https://shop.printed-droid.com/produkt/astrocan-pro-dual-shield/)     |
+| **AstroCan AutoDome**     | **1**   | Control the Dome Motor                                                                                         | [printed-droid.com](https://shop.printed-droid.com/produkt/astrocan-autodome/)     |
 | **Hifi Amplifier**               | **1**   | Audiointerface                                                                                          | [Amazon](https://www.amazon.de/ZHITING-Bluetooth-Verst%C3%A4rkerplatine-Audioverst%C3%A4rkerplatine-LC-Filtertechnik-Zweikanal-DC8-24V/dp/B088N6Z9TB)     |
+| Alternative **Hifi Amplifier** without Bluetooth              | **1**   | Audiointerface                                                                                          | [Amazon](https://www.amazon.de/dp/B09PL6R1L7)     |
 | **Fusebox**                      | **2**   | To get everything secured                                                                               | [AliExpress](https://de.aliexpress.com/item/1005005923377932.html)     |
+
 <div style="page-break-after: always;"></div>
 
-## Assembly Instructions for the Frame
-> [!NOTE]  
-> - The assembly is relatively simple, as the entire "package/unit" is stable once it has been assembled.
+## Assembly instructions for the Frame
+
+<blockquote class="callout note">
+💡 <strong>NOTE:</strong> The assembly is relatively simple, as the entire "package/unit" is stable once it has been assembled.
+</blockquote>
 
 **Required Parts**:
 - **15x10x4 mm bearings (4 pieces)**
@@ -165,10 +180,13 @@
    3. Attach to the body using **two M3x18 mm countersunk screws** each, ensuring that the bottom edge of the adapters aligns with the mounting points on the body.
    4. **Optional**: If necessary, two additional screws and threaded inserts can be installed on each side.
 
+<div style="page-break-after: always;"></div>
+
 ### 2. Preparation of the Frame
-> [!NOTE]  
-> - If the build volume is larger than that of a Bambu Lab X1C, `Frame-Complete_x2.stl` can be printed twice.
-> - If the build volume is smaller than that of a Bambu Lab X1C, `Frame-Modular-End_x4.stl` must be printed four times and `Frame-Modular-Middle_x6.stl` six times.
+
+<blockquote class="callout note">
+💡 <strong>NOTE:</strong> If the build volume is larger than that of a Bambu Lab X1C, <code>Frame-Complete_x2.stl</code> can be printed twice. If the build volume is smaller than that of a Bambu Lab X1C, `Frame-Modular-End_x4.stl` must be printed four times and `Frame-Modular-Middle_x6.stl` six times.
+</blockquote>
 
 1. Melt in **80 M3x5.7 mm threaded inserts** per side (fewer inserts may be used depending on how the modules are arranged).
 
@@ -180,13 +198,13 @@
 3. Slide the parts `Frame-Connector-left.stl`, `Frame-Connector-right.stl`, and `Frame-Connector-top.stl` over the standoffs.
 4. Finally, attach the remaining side to the standoffs using **40 M3x6 mm pan head screws**.
 
-### 4. Assembly of the Screwable Body Adapter
-1. ``Body-Frame-Adapter-top.stl`` and ``Body-Frame-Adapter-top-Knob.stl``:
+### 4. Assembly of the screwable Body Adapter
+1. `Body-Frame-Adapter-top.stl` and `Body-Frame-Adapter-top-Knob.stl`:
    1. Melt in **one M4x4x6 mm threaded insert**.
    2. Attach to the body using **one M4x18 mm countersunk screw**, ensuring that the top edge of the adapter aligns with the mounting point on the body.
    3. Assemble the hand-tightened knob using **one M4 square nut** and **one M4x40 mm countersunk screw**.
 
-### Assembly on the Body
+### 5. Assembly and disassembly on the Body
 **Required Parts**:
 - **M4x18 mm countersunk screws (4 pieces)**
 - **M4x40 mm countersunk screw (1 piece)**
@@ -194,31 +212,31 @@
 - **M4x4x6 mm threaded inserts (4 pieces)**
 - **15x10x4 mm bearings (4 pieces)**
 
-#### Assembly Instructions:
-1. **Attach** ``Body-Adapter-left.stl``:
+#### 5.1 Assembly
+1. **Attach** `Body-Adapter-left.stl`:
    - Screw the left adapter with the 15x10x4 mm bearings and attach it to the body.
 
 2. **Insert the MCU**:
-   - Insert the MCU into the left adapter (``Body-Adapter-left.stl``).
+   - Insert the MCU into the left adapter (`Body-Adapter-left.stl`).
 
-3. **Mount** ``Body-Adapter-right.stl``:
-   - Place the ``Body-Adapter-right.stl`` onto the MCU.
+3. **Mount** `Body-Adapter-right.stl`:
+   - Place the `Body-Adapter-right.stl` onto the MCU.
 
 4. **Secure Adapter to the Body**:
    - Slide the right adapter onto the body, tilt slightly, and then tighten the screws.
 
-#### Disassembly:
+#### 5.2 Disassembly
 - Follow the steps in reverse order.
 
-### Assembly instructions panels
+### 6. Assembly instructions to attach the panels
 
 - The panels themselves are each attached to the frame with **1-n M3x6 mm pan head screws**.
 - In some cases, **M3x5.7 mm threaded inserts** are also required to attach the parts to the panels themselves.
 
 ## Community panels
 
-> [!NOTE]
-> - The following list contains an overview of panels which were created by other users to extend the option what electronics can be used. Thank you so much!
+<blockquote class="callout tip">
+🛠 <strong>TIP:</strong> The following link contains an overview of panels which were created by other users to extend the option what electronics can be used. Thank you so much!
+</blockquote>
 
-- Stephen Mathis has published [his created panels](https://www.facebook.com/groups/2152999025028674/?multi_permalinks=3957991467862745) on the Facebook group of Mr. Baddeley. He also posted a [video](https://www.facebook.com/share/v/1Ft1YTVtmM/).
-- [dadmin](https://makerworld.com/de/@user_2838957196) created a [set of panels](https://makerworld.com/de/models/1222082-r2d2-custom-panels-for-r2d2-modular-control-unit#profileId-1239080) to hold electronics like a voltmeter, new power terminals, Sparkfun MP3 Trigger, new AMP, XBOX receiver and Mini Maestro 24-Channel USB controller.
+[R2-D2 MCU-Panel-Collection](https://makerworld.com/de/collections/5528180-r2-d2-mcu-panel-collection)
